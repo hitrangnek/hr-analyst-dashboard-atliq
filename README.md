@@ -2,8 +2,7 @@
 ## Problem Statement
 The HR team stored attendance data in three separate monthly files, making it difficult to monitor employee attendance and hybrid work behavior. They needed a centralized solution to track WFH/WFO trends, analyze sick leave patterns, optimize office space usage, and support workforce planning decisions.
 
-## Objective
-The goal of this project was to centralize attendance data and build an automated Power BI dashboard for the HR department. This dashboard enables HR teams to track attendance, work-from-home (WFH), and sick leave trends, identify the best days for team activities, and support data-driven decisions for office space optimization and workforce planning.
+To solve this problem, I built an automated Power BI dashboard that consolidates attendance data into a single source of truth and provides actionable insights for data-driven HR decisions.
 
 ## Dataset use
 [Download raw-data.xlsx](https://github.com/hitrangnek/project-hr-analyst-atliq/blob/main/raw-data.xlsx)
