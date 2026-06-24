@@ -1,6 +1,13 @@
-# 📊 Hybrid Workforce Attendance Analysis
+# 📊 Hybrid Workforce Attendance Analysis ( Interactive Dashboard creation using Powerbi)
 ## Problem Statement
 The HR team stored attendance data in three separate monthly files, making it difficult to monitor employee attendance and hybrid work behavior. They needed a centralized solution to track WFH/WFO trends, analyze sick leave patterns, optimize office space usage, and support workforce planning decisions.
+
+## Objective
+* Centralize attendance data from multiple files into a single source of truth.
+* Monitor employee attendance, WFH, and sick leave trends.
+* Identify the best days for in-office activities.
+* Optimize office space utilization for a hybrid workforce.
+* Support data-driven workforce planning decisions.
 ## Dataset use
 [Download raw-data.xlsx](https://github.com/hitrangnek/project-hr-analyst-atliq/blob/main/raw-data.xlsx)
 ## Action Workflow
