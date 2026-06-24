@@ -15,6 +15,7 @@ The HR team stored attendance data in three separate monthly files, making it di
 *  Verify data for any missing values and anomalies, and sort out the same.
 * Standardized the data to ensure all dates, categories, and values were consistent and easy to analyze.
 * Created key metrics to measure employee attendance, work-from-home (WFH) usage, and sick leave trends.
+* Created DAX measures to calculate key metrics
 * Design an interactive dashboard to visualize attendance trends, WFH distribution by day of the week, and sick leave patterns over time
 
 ## Insights
