@@ -29,11 +29,11 @@ To solve this problem, I built an automated Power BI dashboard that consolidates
 
 ## Recommendations
 
-* **Optimize office space:** Since many employees work from home on Fridays, the company could introduce an optional Friday WFH policy. This could reduce office space usage by up to 13% and lower costs for unused workspace.
+* **Optimize office space:**  The company could recommend Thursdays and Fridays as WFH days, as these are the days when employees are most likely to work remotely. This would help manage office capacity more efficiently and reduce rental costs, especially when office space cannot accommodate all employees at the same time.
 
 * **Plan team activities on high-attendance days:** Team meetings, workshops, and collaborative activities should be scheduled on Mondays and Tuesdays because these days have the highest in-office attendance rates (93.16% and 93.03%).
 
-* **Prepare for seasonal sick leave:** Create backup plans for late spring and early summer when sick leave tends to increase. This may include cross-training employees and adjusting project timelines to reduce the impact on important tasks.
+* **Prepare for seasonal sick leave:** Since this is a technology company, higher sick leave rates may affect software releases and project deadlines. The company should plan ahead, create backup plans, and adjust project timelines to avoid delays when fewer employees are available.
 
 
 
