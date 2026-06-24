@@ -1,6 +1,6 @@
 # 📊 Hybrid Workforce Attendance Analysis
 ## Project Overview
-This project solved a critical business pain point for the HR team at AtliQ Technologies, who were managing attendance records across three disconnected monthly Excel files from April to June 2022. Without a unified data source, the team could not track hybrid work patterns, monitor attendance trends, or make data-backed decisions around office space utilization and workforce planning.
+The HR team stored attendance data in three separate monthly files, making it difficult to monitor employee attendance and hybrid work behavior. They needed a centralized solution to track WFH/WFO trends, analyze sick leave patterns, optimize office space usage, and support workforce planning decisions.
 ## Dataset use
 [Download raw-data.xlsx](https://github.com/hitrangnek/project-hr-analyst-atliq/blob/main/raw-data.xlsx)
 ## Action Workflow
