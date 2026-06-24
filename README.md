@@ -111,6 +111,6 @@ The project also establishes a repeatable framework for future workforce analyti
 
 > Add a screenshot of your Power BI dashboard here.
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](screenshot-dashboard.png)
 
 ```
