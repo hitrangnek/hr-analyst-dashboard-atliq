@@ -14,11 +14,15 @@ To solve this problem, I built an automated Power BI dashboard that consolidates
 * Created DAX measures to calculate key metrics
 * Design an interactive dashboard to visualize attendance trends, WFH distribution by day of the week, and sick leave patterns over time
 
-## Insights
-* The average attendance rate was **91.76%**. Employees worked from home **9.93%** of the time, while the average sick leave rate was **1.10%**.
-* **Friday (12.96%)** and **Thursday (11.34%)** had the highest work-from-home (WFH) rates. In contrast, **Monday** and **Tuesday** had the lowest WFH rates and the highest number of employees working in the office.
-* Sick leave increased in **late May and early June**. This may have been caused by seasonal weather changes and the spread of common viruses.
-* Attendance dropped to its lowest point (**77.92%**) in **mid-May**. During the same period, both WFH and sick leave rates increased.
+* ## Key Insights
+
+* Employee attendance was generally high, with an average attendance rate of **91.76%**. On average, employees worked from home **9.93%** of the time, while **1.10%** were on sick leave.
+
+* Employees were more likely to work from home on **Thursdays and Fridays**, while **Mondays and Tuesdays** had the highest number of employees working in the office.
+
+* Sick leave increased during **late May and early June**, which may be related to seasonal weather changes and the spread of common illnesses.
+
+* Attendance reached its lowest point (**77.92%**) in **mid-May**. During the same period, both work-from-home and sick leave rates increased, suggesting that employees may have preferred to work remotely or take time off when they were not feeling well.
 
 ## Recommendations
 
