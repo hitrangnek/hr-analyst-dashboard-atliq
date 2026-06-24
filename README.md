@@ -14,6 +14,9 @@ To solve this problem, I built an automated Power BI dashboard that consolidates
 * Created DAX measures to calculate key metrics
 * Design an interactive dashboard to visualize attendance trends, WFH distribution by day of the week, and sick leave patterns over time
 
+## Dashboard
+![Dashboard Preview](./screenshot-dashboard.png)
+
 * ## Key Insights
 
 * Employee attendance was generally high, with an average attendance rate of **91.76%**. On average, employees worked from home **9.93%** of the time, while **1.10%** were on sick leave.
@@ -33,5 +36,4 @@ To solve this problem, I built an automated Power BI dashboard that consolidates
 * **Prepare for seasonal sick leave:** Create backup plans for late spring and early summer when sick leave tends to increase. This may include cross-training employees and adjusting project timelines to reduce the impact on important tasks.
 
 
-## Dashboard
-![Dashboard Preview](./screenshot-dashboard.png)
+
